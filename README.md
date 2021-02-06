@@ -6,3 +6,7 @@ StandAlone
 StandAlone with input file
 
 ![StandAlonewI](input.png)
+
+GUI
+
+![GUI](GUI.png)
