@@ -29,3 +29,6 @@ Többrétegű alkalmazások
 
 Webes alkalmazás
 ![webes](webes.png)
+
+HTML és CSS
+![html](HTML.png)
