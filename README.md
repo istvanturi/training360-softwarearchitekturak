@@ -23,3 +23,6 @@ SQL
 NoSQL
 
 ![mongo](Mongo.png)
+
+Többrétegű alkalmazások
+![mla](mla.png)
