@@ -14,3 +14,8 @@ GUI
 Központi Adatbázis
 
 ![CDB](CDB.png)
+
+SQL
+
+![SQL1](SQL1.png)
+![SQL2](SQL2.png)
