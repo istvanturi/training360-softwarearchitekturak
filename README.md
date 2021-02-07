@@ -10,3 +10,7 @@ StandAlone with input file
 GUI
 
 ![GUI](GUI.png)
+
+Központi Adatbázis
+
+![CDB](CDB.png)
