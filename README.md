@@ -26,3 +26,6 @@ NoSQL
 
 Többrétegű alkalmazások
 ![mla](mla.png)
+
+Webes alkalmazás
+![webes](webes.png)
