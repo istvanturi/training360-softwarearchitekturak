@@ -32,3 +32,6 @@ Webes alkalmazás
 
 HTML és CSS
 ![html](HTML.png)
+
+RIA
+![js](JS.png)
