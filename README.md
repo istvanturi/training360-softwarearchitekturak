@@ -33,5 +33,8 @@ Webes alkalmazás
 HTML és CSS
 ![html](HTML.png)
 
+LoadBalancer
+![lb](lb.png)
+
 RIA
 ![js](JS.png)
